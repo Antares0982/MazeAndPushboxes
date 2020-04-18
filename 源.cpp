@@ -2,7 +2,6 @@
 #include<string>
 #include<conio.h>
 #include<vector>
-#include<array>
 using namespace std;
 string* A = new string[30];//´æ´¢ÓÎÏ·µØÍ¼
 int* xx;
