@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\60168\source\repos\MazeAndPushboxes\MazeAndPushboxes\源.cpp(39,23): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\60168\source\repos\MazeAndPushboxes\MazeAndPushboxes\源.cpp(41,21): warning C4018: “<”: 有符号/无符号不匹配
+  MazeAndPushboxes.vcxproj -> C:\Users\60168\source\repos\MazeAndPushboxes\Debug\MazeAndPushboxes.exe
